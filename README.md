@@ -1,2 +1,0 @@
-# vistocaixadigital
-Visto CAIXA Digital
